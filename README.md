@@ -15,9 +15,8 @@ Bacharelado em Administração e Pós graduada em Gestão de Pessoas
 ``
 Sobre mim:
 `` 
-Estou em transição de carreira, e busco uma posição no mercado de trabalho na area de TI, esta area se tornou minha grande paixão.
-
-Durante os estudos atuei em um projeto como QA, fazendo testes de front e backend. Utilizando Postman e Robot.
+Atuando em um projeto como Lider do 
+time QA Funcional, definindo prioridades e distribuindo tarefas entre a equipe, faço testes de front e backend. Utilizando Postman e Robot.
 
 gosto de varios estilos musicais, filmes e livros. Não me apego em nenhum genero especifico. 
 
